@@ -40,7 +40,6 @@ public class Main {
 		
 		market.ComputeCapitalStandAlone();
 		
-		
 
 		System.out.print("End !!! "); 
 		
